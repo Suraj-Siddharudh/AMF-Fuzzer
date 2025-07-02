@@ -16,7 +16,7 @@ Py3AMF==0.8.9
 pycodestyle==2.5.0
 pylint==2.3.1
 pytz==2019.1
-requests==2.32.2
+requests==2.32.4
 six==1.12.0
 typed-ast==1.4.0
 urllib3==1.26.19
